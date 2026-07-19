@@ -1,0 +1,12 @@
+git init
+git status
+git add testing.py
+git commit -m "git remote add origin git@github.com:aditya-b312/github-for-devops.git
+git remote add origin git@github.com:aditya-b312/github-for-devops.git
+git remote -v
+git branch -M main
+git push origin master
+git push -u origin main
+git remote set-url origin https://(token) @github.com/aditya-b312/github-for-devops.git
+git push origin master
+
